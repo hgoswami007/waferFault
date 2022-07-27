@@ -5,146 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8304c17-3ea3-4286-83a7-752408df297d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.circleci/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.circleci/config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_Logs/DataBaseConnectionLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Prediction_Raw_Data_Validation/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_Logs/DbInsertLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Training_Raw_data_validation/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_Logs/DbTableCreateLog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_Logs/ExportToCsv.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_Logs/GeneralLog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_Logs/Prediction_Log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_Logs/columnValidationLog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_Logs/dataTransformLog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_Logs/missingValuesInColumn.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_Logs/nameValidationLog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrainingArchiveBadData/BadData_2022-07-27_121753/Wafer12_20012.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrainingArchiveBadData/BadData_2022-07-27_121753/Wafer_07012020_000000.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrainingArchiveBadData/BadData_2022-07-27_121753/Wafer_07012020_223345.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrainingArchiveBadData/BadData_2022-07-27_121753/Wafer_08012020_120000.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrainingArchiveBadData/BadData_2022-07-27_121753/Wafer_10012020_131534.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrainingArchiveBadData/BadData_2022-07-27_121753/Wafer_11012020_151432.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrainingArchiveBadData/BadData_2022-07-27_121753/Wafer_12012020_111.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrainingArchiveBadData/BadData_2022-07-27_121753/Wafer_12012020_111213.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrainingArchiveBadData/BadData_2022-07-27_121753/Wafer_13012020_141000.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrainingArchiveBadData/BadData_2022-07-27_121753/Wafer_14012020_113045.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrainingArchiveBadData/BadData_2022-07-27_121753/Wafer_15010_130532.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrainingArchiveBadData/BadData_2022-07-27_121753/Wafer_15012020_130532.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrainingArchiveBadData/BadData_2022-07-27_121753/Wafer_18012020_121532.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrainingArchiveBadData/BadData_2022-07-27_121753/Wafer_19012020_141432.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrainingArchiveBadData/BadData_2022-07-27_121753/Wafer_20012020_135132.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrainingArchiveBadData/BadData_2022-07-27_121753/Wafer_21012020_143634.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrainingArchiveBadData/BadData_2022-07-27_121753/Wafer_22012020_173245.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrainingArchiveBadData/BadData_2022-07-27_121753/Wafer_23012020_163456.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrainingArchiveBadData/BadData_2022-07-27_121753/Wafer_24012020_150121.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrainingArchiveBadData/BadData_2022-07-27_121753/Wafer_25012020_142112.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrainingArchiveBadData/BadData_2022-07-27_121753/Wafer_fault_detection.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrainingArchiveBadData/BadData_2022-07-27_121753/Wafer_text_130532.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrainingArchiveBadData/BadData_2022-07-27_121753/Waferdefault_15010_130532.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrainingArchiveBadData/BadData_2022-07-27_121753/wafer_07012020_041011.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrainingArchiveBadData/BadData_2022-07-27_121753/wafer_16012020_134553.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrainingArchiveBadData/BadData_2022-07-27_121753/wafer_17012020_125434.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrainingArchiveBadData/BadData_2022-07-27_121753/wafer_20012020_090819.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrainingArchiveBadData/BadData_2022-07-27_121753/wafer_22022020_041119.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrainingArchiveBadData/BadData_2022-07-27_121753/wafer_23012020_011008.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrainingArchiveBadData/BadData_2022-07-27_121753/wafer_28012020_051011.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrainingArchiveBadData/BadData_2022-07-27_121753/wafer_29012020_060756.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrainingArchiveBadData/BadData_2022-07-27_121753/wafer_31012020_090811.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Batch_Files/Wafer12_20012.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Batch_Files/Wafer_07012020_000000.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Batch_Files/Wafer_07012020_223345.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Batch_Files/Wafer_08012020_120000.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Batch_Files/Wafer_10012020_131534.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Batch_Files/Wafer_11012020_151432.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Batch_Files/Wafer_12012020_111.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Batch_Files/Wafer_12012020_111213.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Batch_Files/Wafer_13012020_141000.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Batch_Files/Wafer_14012020_113045.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Batch_Files/Wafer_15010_130532.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Batch_Files/Wafer_15012020_130532.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Batch_Files/Wafer_18012020_121532.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Batch_Files/Wafer_19012020_141432.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Batch_Files/Wafer_20012020_135132.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Batch_Files/Wafer_21012020_143634.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Batch_Files/Wafer_22012020_173245.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Batch_Files/Wafer_23012020_163456.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Batch_Files/Wafer_24012020_150121.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Batch_Files/Wafer_25012020_142112.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Batch_Files/Wafer_fault_detection.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Batch_Files/Wafer_text_130532.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Batch_Files/Waferdefault_15010_130532.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Batch_Files/wafer_07012020_041011.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Batch_Files/wafer_13012020_090817.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Batch_Files/wafer_16012020_051629.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Batch_Files/wafer_16012020_134553.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Batch_Files/wafer_17012020_125434.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Batch_Files/wafer_20012020_090819.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Batch_Files/wafer_20022020_090716.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Batch_Files/wafer_21012020_080913.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Batch_Files/wafer_22022020_041119.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Batch_Files/wafer_23012020_011008.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Batch_Files/wafer_23012020_041211.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Batch_Files/wafer_27012020_080911.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Batch_Files/wafer_28012020_051011.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Batch_Files/wafer_28012020_090817.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Batch_Files/wafer_28042020_031911.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Batch_Files/wafer_29012020_050617.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Batch_Files/wafer_29012020_060756.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Batch_Files/wafer_31012020_090811.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Logs/DataBaseConnectionLog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Logs/DbInsertLog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Logs/DbTableCreateLog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Logs/ExportToCsv.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Logs/GeneralLog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Logs/ModelTrainingLog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Logs/Training_Main_Log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Logs/columnValidationLog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Logs/dataTransformLog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Logs/missingValuesInColumn.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Logs/nameValidationLog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Logs/valuesfromSchemaValidationLog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Raw_files_validated/Bad_Raw/Wafer12_20012.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Raw_files_validated/Bad_Raw/Wafer_07012020_000000.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Raw_files_validated/Bad_Raw/Wafer_07012020_223345.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Raw_files_validated/Bad_Raw/Wafer_08012020_120000.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Raw_files_validated/Bad_Raw/Wafer_10012020_131534.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Raw_files_validated/Bad_Raw/Wafer_11012020_151432.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Raw_files_validated/Bad_Raw/Wafer_12012020_111.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Raw_files_validated/Bad_Raw/Wafer_12012020_111213.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Raw_files_validated/Bad_Raw/Wafer_13012020_141000.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Raw_files_validated/Bad_Raw/Wafer_14012020_113045.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Raw_files_validated/Bad_Raw/Wafer_15010_130532.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Raw_files_validated/Bad_Raw/Wafer_15012020_130532.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Raw_files_validated/Bad_Raw/Wafer_18012020_121532.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Raw_files_validated/Bad_Raw/Wafer_19012020_141432.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Raw_files_validated/Bad_Raw/Wafer_20012020_135132.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Raw_files_validated/Bad_Raw/Wafer_21012020_143634.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Raw_files_validated/Bad_Raw/Wafer_22012020_173245.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Raw_files_validated/Bad_Raw/Wafer_23012020_163456.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Raw_files_validated/Bad_Raw/Wafer_24012020_150121.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Raw_files_validated/Bad_Raw/Wafer_25012020_142112.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Raw_files_validated/Bad_Raw/Wafer_fault_detection.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Raw_files_validated/Bad_Raw/Wafer_text_130532.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Raw_files_validated/Bad_Raw/Waferdefault_15010_130532.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Raw_files_validated/Bad_Raw/wafer_16012020_134553.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Raw_files_validated/Bad_Raw/wafer_17012020_125434.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Raw_files_validated/Good_Raw/wafer_07012020_041011.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Raw_files_validated/Good_Raw/wafer_13012020_090817.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Raw_files_validated/Good_Raw/wafer_16012020_051629.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Raw_files_validated/Good_Raw/wafer_20012020_090819.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Raw_files_validated/Good_Raw/wafer_20022020_090716.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Raw_files_validated/Good_Raw/wafer_21012020_080913.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Raw_files_validated/Good_Raw/wafer_22022020_041119.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Raw_files_validated/Good_Raw/wafer_23012020_011008.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Raw_files_validated/Good_Raw/wafer_23012020_041211.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Raw_files_validated/Good_Raw/wafer_27012020_080911.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Raw_files_validated/Good_Raw/wafer_28012020_051011.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Raw_files_validated/Good_Raw/wafer_28012020_090817.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Raw_files_validated/Good_Raw/wafer_28042020_031911.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Raw_files_validated/Good_Raw/wafer_29012020_050617.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Raw_files_validated/Good_Raw/wafer_29012020_060756.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Raw_files_validated/Good_Raw/wafer_31012020_090811.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,12 +27,15 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="1Wpi9h7By7uq7Lg814h5fCb7qvD" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Training_Raw_data_validation" />
@@ -362,6 +226,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
